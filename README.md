@@ -39,7 +39,7 @@ $ npm run test:cov
 1.  Clonar repositorio
 2.  Ejecutar
 ``` 
-yarn install
+npm install
 ```
 3. Tener Nest CLI instalado
 ```
